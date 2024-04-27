@@ -1,5 +1,7 @@
 package main
 
 func main() {
-	print("Hello from Go")
+	print("Hello from Go",
+			"")
+	print("Hi")
 }
